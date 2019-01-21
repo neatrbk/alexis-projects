@@ -1,0 +1,22 @@
+#########################################################
+################~ TEMP CONVERSION FUNCTIONS ~#############		
+
+
+1. Write a function to convert ferenheit to celcius, The function should:
+	- Take one parameter (ferenheit temp)
+	- Return the temp converted to celcius
+
+2. Write a function to convert celcisus to ferenheit, The function should: 
+	- Take one parameter (celcius temp)
+	- Print the temp converted to fereneheit AND Return the converted temp
+
+
+EQUATIONS:
+
+Ferenheit --> Celcius
+
+cel = 5/9 * (f - 32);
+
+Celcius --> ferenheit 
+
+fer = (c * 9/5) + 32
